@@ -17,7 +17,7 @@
     <a href="https://vk.com/g.nikolaus" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     <a href="https://www.hackerrank.com/gusev_nikolaus" target="="_blank">
-       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gusev_nikolaus" height="40" width="40" /></a>
+       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gusev_nikolaus" height="40" width="40" /></a>
   </div>
 
 ---
