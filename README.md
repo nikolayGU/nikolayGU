@@ -7,7 +7,7 @@
 
 Я начинающий Аналитик данных<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с самообучения. Я пробовал себя во многих направлениях, пробовал изучать тестирование, язык Python, попробовал свои силы в data science, но больше всего меня зацепил **анализ данных**! С апреля 2022 года по январь 2023 я изучал анализ данных на курсах SkyPro. В настоящий момент мое обучение на курсе завершено, я продолжаю работать в маркетинговом агенстве уже на должности **Аналитика данных**.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Azaylik-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Azaylik) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:gusev.nikolaus@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-nikolay_gus-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Azaylik) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:gusev.nikolaus@gmail.com)
 
 ---
 
